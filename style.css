@@ -97,12 +97,3 @@ a:visited{
 #slightlymorepadding{
   padding-right: 40px;
 }
-
-img {
-  opacity: 0.05;
-  width: 100px;
-  transition: opacity 1s;
-}
-img:hover {
-  opacity: 0.75;
-}
